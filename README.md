@@ -1,21 +1,7 @@
 # **bfloat16**  
-  
-
-⚡炼丹喜欢开半精度  
-  
-
-🍔成分复杂（包括但不限于音游，MC，galgame，逆向）  
-  
-
-📱目前就读的专业是大数据和人工智能  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
 
 
 ### Language  
@@ -28,7 +14,6 @@
 </div>
 
 </td><td valign="top" width="50%">
-
 
 
 ### Software  
