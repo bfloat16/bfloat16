@@ -38,6 +38,7 @@
         <h3>Software</h3>
         <a href="https://github.com/x64dbg/x64dbg" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/7937360?s=48&v=4" alt="x64dbg" height="50" /></a>  
         <a href="https://hex-rays.com/" target="_blank"><img style="margin: 10px" src="https://s2.loli.net/2024/11/11/Db1mXGwurH4pcFK.jpg" alt="IDA Pro" height="50" /></a>  
+        <a href="https://binary.ninja/" target="_blank"><img style="margin: 10px" src="https://binary.ninja/icons/favicon.ico" alt="Binary Ninja" height="50" /></a>  
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
         <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
         <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
